@@ -2,4 +2,12 @@ from to_do import TODO
 
 
 def task3():
-    return TODO("Erase this line and write your solution")
+    return
+
+
+"""
+Height = input (height of the triangle)
+Base = input (base of the triangle)
+Area = 1/2 * height * base
+Print(Area)
+"""
