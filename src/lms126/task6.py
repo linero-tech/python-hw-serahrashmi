@@ -6,10 +6,11 @@ def task6():
 
 
 """
-
-INPUT for number is 1 to 100
-    divide every number from 1 to 100 by 5
-IF number is completely divisible by 5 print number 
-ELSE End 
-
+START
+INPUT numbers from 1 and 100, inclusive
+CHECK each number
+    IF the number is perfectly DIVISIBLE by 5 
+    PRINT(number)
+CONTINUE checking until 100 is reached
+END
 """
