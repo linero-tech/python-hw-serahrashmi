@@ -2,10 +2,7 @@ from to_do import TODO
 
 
 def task10():
-    return
-
-
-"""
+    return """
     Open Gmail on the web
     Click login to Gmail
     Click Register or Sign Up 
@@ -14,9 +11,8 @@ def task10():
     Create a password with more than 6 characters it can be a alphabet, numerical 
     or special character 
     Confirm the password typing the same again 
-IF  the password matches 
+    IF  the password matches 
     create account successfully 
-ELSE reconfirm password 
+    ELSE reconfirm password 
 END
-
 """
