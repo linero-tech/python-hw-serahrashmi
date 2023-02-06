@@ -6,7 +6,7 @@ def task4():
 
 
 """
-
+START
 INPUT x 
 INPUT y
 OUTCOME
@@ -18,7 +18,5 @@ IF x>y
 ELSE 
     OUTCOME = y
 print(OUTCOME)
-
 END
-
 """

@@ -6,8 +6,10 @@ def task3():
 
 
 """
+START
 Height = input (height of the triangle)
 Base = input (base of the triangle)
 Area = 1/2 * height * base
 Print(Area)
+END
 """

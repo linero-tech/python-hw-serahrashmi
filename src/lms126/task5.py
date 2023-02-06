@@ -4,36 +4,36 @@ from to_do import TODO
 def task5():
     return
 
+
 """
 INPUT x
 OUTCOME = day of the week 
 
 IF X >/= 8
-THEN divide the number by the total days of the week, the reminder corresponds 
-   to the day of the week 
+ THEN divide the number by the total days of the week, the reminder corresponds 
+  to the day of the week 
    
 IF X=1
-    Y = Monday
+    Print(Monday)
     END
 IF X=2
-    Y = Tuesday
+    Print(Tuesday)
     END
 IF X=3
-    Y = Wednesday
+    Print(Wednesday)
     END
 IF X=4
-    Y = Thursday
+    Print(Thursday)
     END
 IF X=5
-    Y = Friday
+    Print(Friday)
     END
 IF X=6
-    Y = Saturday
+    Print(Saturday)
     END
 IF X=7
-    Y = Sunday
+    Print(Sunday)
     END
-    
 """
 
 
