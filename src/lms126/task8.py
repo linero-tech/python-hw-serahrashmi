@@ -2,10 +2,7 @@ from to_do import TODO
 
 
 def task8():
-    return
-
-
-"""
+    return """
 START
 INPUT x 
     IF x is perfectly divisible by 3

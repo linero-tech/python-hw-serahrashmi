@@ -2,10 +2,7 @@ from to_do import TODO
 
 
 def task5():
-    return
-
-
-"""
+    return """
 INPUT x
 OUTCOME = day of the week 
 

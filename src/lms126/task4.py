@@ -2,10 +2,7 @@ from to_do import TODO
 
 
 def task4():
-    return
-
-
-"""
+    return """
 START
 INPUT x 
 INPUT y

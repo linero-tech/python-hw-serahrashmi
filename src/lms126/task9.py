@@ -2,10 +2,7 @@ from to_do import TODO
 
 
 def task9():
-    return
-
-
-"""
+    return """
 INPUT 
 IF the ATM is out of service 
    THAN cant access ATM

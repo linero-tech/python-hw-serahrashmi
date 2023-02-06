@@ -2,10 +2,7 @@ from to_do import TODO
 
 
 def task7():
-    return
-
-
-"""
+    return """
 START
 INPUT numbers from 1 and 100, inclusive
 CHECK each number

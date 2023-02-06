@@ -2,10 +2,7 @@ from to_do import TODO
 
 
 def task3():
-    return
-
-
-"""
+    return """
 START
 Height = input (height of the triangle)
 Base = input (base of the triangle)

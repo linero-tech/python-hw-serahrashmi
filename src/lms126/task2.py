@@ -2,8 +2,7 @@ from to_do import TODO
 
 
 def task2():
-    return
-"""
+    return """
 INPUT length of the rectangle 
 INPUT breath of the rectangle
 use the equation "Area = length * breath" to calculate the area
