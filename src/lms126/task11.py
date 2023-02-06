@@ -3,7 +3,7 @@ from to_do import TODO
 
 def task11():
     return """
-INPUT temperature is 20C or 30C
+INPUT temperature
 IF the readings are in Celcius
     use the equation (temperature in celcius *9/5)+32
     convert 
