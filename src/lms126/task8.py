@@ -11,8 +11,14 @@ INPUT x
     THEN Print (Bar)
     IF x is perfectly divisible by 15
     THEN Print (FooBar) 
-    IF x is divisible by 3 or 5 
+    IF x is not divisible by 3 or 5 
     THEN Print (Qix) 
 END 
 
+"""
+"""
+1. Input x
+2. IF x is multiple of both 3 and 5 
+    THEN print FooBar.
+3. ELSE print Qix 
 """

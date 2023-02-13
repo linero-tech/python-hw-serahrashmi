@@ -17,3 +17,10 @@ ELSE
 print(OUTCOME)
 END
 """
+"""
+1. Input the number x 
+2. Input the value y 
+3. if x is greater than y 
+   print x
+4. else print y 
+"""
