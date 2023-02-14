@@ -17,3 +17,4 @@ END
 3. calculate the area of the triangle 
 4. use the equation Area = 1/2 * height * base 
 5. print Area 
+"""

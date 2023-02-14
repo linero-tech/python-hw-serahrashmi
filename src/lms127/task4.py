@@ -2,6 +2,10 @@ from to_do import TODO
 
 
 def task4(base, height):
-    return TODO(
-        "Replace this 'TODO' with the variable 'result'. Do not erase the 'return' keyword"
-    )
+    return result
+base = "5.0"
+height= "10.0"
+result = (1/2*5.0*10.0)
+print(result)
+if __name__ == "__main__":
+    task4(base, height)
