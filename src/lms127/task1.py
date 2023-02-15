@@ -7,5 +7,6 @@ def task1():
     print("Currency:Indian Rupees")
 
 
+
 if __name__ == "__main__":
     task1()
