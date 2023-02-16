@@ -3,6 +3,7 @@ from to_do import TODO
 
 def task10():
     return"""
+    
 1.INPUT email
 2.IF email is malformed
     1. OUTPUT Error
@@ -12,4 +13,5 @@ def task10():
         1. OUTPUT Error
     3. ELSE 
         1.Create the account 
+        
 """

@@ -3,6 +3,7 @@ from to_do import TODO
 
 def task11():
     return """
+    
 1, Input a value 
 2. separate the magnitude and the unit
 3. IF the unit is Celsius 
@@ -11,4 +12,5 @@ def task11():
 4. ELSE 
     convert to Celsius using equation (temperature in Fahrenheit _32)* 5/9 
     print converted temperature
+    
 """
