@@ -6,7 +6,5 @@ def task1():
     print("Capital:New Delhi")
     print("Currency:Indian Rupees")
 
-
-
 if __name__ == "__main__":
     task1()
