@@ -2,7 +2,7 @@ from to_do import TODO
 
 
 def task8():
-    return 
+    return
 """
 1. Input x
 2. IF x is multiple of both 3 and 5 
