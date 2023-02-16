@@ -2,8 +2,7 @@ from to_do import TODO
 
 
 def task5():
-    return
-"""
+    return"""
 1. IF x=1 
     print Monday
 2. ELSE IF x=2 
