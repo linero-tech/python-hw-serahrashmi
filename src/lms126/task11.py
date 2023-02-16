@@ -2,17 +2,7 @@ from to_do import TODO
 
 
 def task11():
-    return """
-INPUT temperature
-IF the readings are in Celsius
-    use the equation (temperature in celsius *9/5)+32
-    convert 
-    Print (Fahrenheit)
-ELSE temperature is Fahrenheit
-    use the equation (temperature in Fahrenheit _32)* 5/9 
-    convert
-    Print (Celsius)
-"""
+    return 
 """
 1, Input a value 
 2. separate the magnitude and the unit
