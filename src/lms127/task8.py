@@ -8,3 +8,4 @@ def task8(sentence, character):
 
 if __name__ == "__main__":
     print(task8("I code in KOTLIN", "I"))
+    print(task8("learning python", "n"))

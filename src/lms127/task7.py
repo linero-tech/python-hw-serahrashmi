@@ -8,3 +8,4 @@ def task7(sentence):
 
 if __name__ == "__main__":
     print(task7("I love GBG"))
+    print(task7("knowledge is Power"))
