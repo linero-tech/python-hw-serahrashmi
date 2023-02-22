@@ -6,9 +6,9 @@ def task9(sentence, character):
     lower_character = character.lower()
     result = lower_sentence.count(lower_character)
     if result > 0:
-        return "true"
+        return True
     else:
-        return "false"
+        return False
 
 
 if __name__ == "__main__":
